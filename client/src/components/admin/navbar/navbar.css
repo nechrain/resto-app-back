@@ -1,0 +1,21 @@
+.navbar {
+    background-image: linear-gradient(to right,rgb(207, 103, 103) , rgb(196, 109, 52));
+  
+  
+   
+  }
+  
+  .logos {
+  
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 20px;
+  }
+    
+
+h1{
+    color:wheat;
+}
+h2{
+    color: burlywood;
+}

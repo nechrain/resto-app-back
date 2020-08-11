@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "login": "nessrinechammakhi113@gmail.com",
+      "password": "123456",
+      "name": "Nessrine",
+      "id": 1
+    },
+    {
+      "login": "nessrinechammakhi1310@gmail.com",
+      "password": "123456",
+      "name": "asma",
+      "id": 2
+    },
+    {
+      "login": "nessrine@gmail.com",
+      "password": "123",
+      "name": "",
+      "id": 3
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "Jjambbong",
+      "image": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": "15",
+      "description": "Jjambbong"
+    },
+    {
+      "id": 3,
+      "title": "Bibimbap:",
+      "image": "https://i.pinimg.com/564x/18/9e/49/189e49159de8c3dec0ce6253f88892d4.jpg",
+      "price": "20",
+      "description": "Bibimbap:"
+    },
+    {
+      "id": 5,
+      "title": "Jjambbong",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181115105952-korean-food148201709001k-budae-jjigaepot-luck-stew-with-hot-dogs-and-baked-beans.jpg",
+      "price": "20",
+      "description": "Jjambbong"
+    },
+    {
+      "title": "kimbab",
+      "id": 6,
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg",
+      "description": "kimbab",
+      "price": "15"
+    },
+    {
+      "title": "samyetong",
+      "id": 7,
+      "image": "https://i2.wp.com/handluggageonly.co.uk/wp-content/uploads/2015/09/Hand-Luggage-Only-2-1.jpg?w=1600&ssl=1",
+      "description": "samyetong",
+      "price": "15"
+    },
+    {
+      "title": "galbi",
+      "id": 8,
+      "image": "https://i1.wp.com/handluggageonly.co.uk/wp-content/uploads/2015/09/Hand-Luggage-Only-7-1.jpg?w=1600&ssl=1",
+      "price": "20",
+      "description": "galbi"
+    }
+  ]
+}

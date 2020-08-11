@@ -1,0 +1,32 @@
+.karta{
+    margin-left: 5px;
+}
+.admin{
+    margin: 10%;
+
+    
+}
+.cartes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+margin-bottom: 20px;}
+.imaja{
+    width: 18rem;
+    height: 200px;
+}
+.carta{
+    margin: 20px;
+
+}
+.suprim{
+    background-color: rgb(209, 135, 92);
+    border: transparent;
+   border-radius: 50%;
+   color: white;
+   margin-left: 5px;
+   font-size: 18px;
+   width: 50%;
+   margin-bottom: 4%;
+}

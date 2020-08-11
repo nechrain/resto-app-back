@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "login": "nessrinechammakhi113@gmail.com",
+      "password": "123456",
+      "name": "Nessrine",
+      "id": 1
+    },
+    {
+      "login": "nessrinechammakhi1310@gmail.com",
+      "password": "123456",
+      "name": "asma",
+      "id": 2
+    },
+    {
+      "login": "yosra@gmail.com",
+      "password": "hermione",
+      "name": "yosra",
+      "id": 3
+    },
+    {
+      "login": "amina@gmail.com",
+      "password": "123",
+      "name": "amina",
+      "id": 4
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "Jjambbong",
+      "image": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": "15",
+      "description": "Jjambbong"
+    },
+    {
+      "id": 3,
+      "title": "Bibimbap:",
+      "image": "https://i.pinimg.com/564x/18/9e/49/189e49159de8c3dec0ce6253f88892d4.jpg",
+      "price": "20",
+      "description": "Bibimbap:"
+    },
+    {
+      "id": 5,
+      "title": "Jjambbong",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181115105952-korean-food148201709001k-budae-jjigaepot-luck-stew-with-hot-dogs-and-baked-beans.jpg",
+      "price": "20",
+      "description": "Jjambbong"
+    },
+    {
+      "title": "kfnsdklw",
+      "id": 6,
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg",
+      "description": "kfnsdklw"
+    },
+    {
+      "title": "15",
+      "id": 7,
+      "image": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": "lklml",
+      "description": "15"
+    },
+    {
+      "title": "gilbi",
+      "image": "https://images.pexels.com/photos/2781540/pexels-photo-2781540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": "15",
+      "description": "galbi",
+      "id": 8
+    }
+  ]
+}

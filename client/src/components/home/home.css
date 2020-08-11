@@ -1,0 +1,11 @@
+.home{
+    background-image: url("korea.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+b{
+color: red;
+font-size: 20px;
+font-family: fantasy;
+background-color: rosybrown;
+}
